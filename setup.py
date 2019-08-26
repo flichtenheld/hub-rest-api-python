@@ -17,7 +17,7 @@ DESCRIPTION = 'Package for using the Synopsys Black Duck Hub REST API.'
 URL = 'https://github.com/blackducksoftware/hub-rest-api-python'
 EMAIL = 'gsnyder@synopsys.com'
 AUTHOR = 'Glenn Snyder'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.5.0'
 # REQUIRES_PYTHON = '!=3.0.*, !=3.1.*, !=3.2.*, <4'
 VERSION = None
 
